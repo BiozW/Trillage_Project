@@ -1,0 +1,569 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1683569023441403, "dur":1402, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023442811, "dur":102, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1683569023442925, "dur":27, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1683569023442952, "dur":707, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1683569023443691, "dur":664, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023444355, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023689543, "dur":332, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023689875, "dur":44, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023689919, "dur":4839, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694758, "dur":30, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694788, "dur":43, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694831, "dur":42, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694873, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694879, "dur":21, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694900, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694905, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694927, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694932, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694951, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694955, "dur":25, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694980, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023694984, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695000, "dur":6, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695006, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695025, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695028, "dur":17, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695045, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695049, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695069, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695074, "dur":17, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695091, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695096, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695115, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695119, "dur":18, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695137, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695142, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695162, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695166, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695185, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695200, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023695241, "dur":2554, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1683569023443927, "dur":522, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023444449, "dur":4545, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023449009, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1683569023449171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023451405, "dur":12570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1683569023464049, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023464331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023464591, "dur":11591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023476235, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023476290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023483204, "dur":6956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023490181, "dur":1066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023491250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023491288, "dur":37279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023528587, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023528608, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023528613, "dur":14488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023543120, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023543138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023543149, "dur":46780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023589948, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023590265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023590274, "dur":33938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023624231, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023624251, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023624258, "dur":5152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683569023629447, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1683569023629623, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023629631, "dur":46780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1683569023676430, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1683569023676849, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683569023676857, "dur":3126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1683569023680010, "dur":9551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023443889, "dur":521, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023444410, "dur":4627, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023449038, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1683569023449269, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023469976, "dur":14521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1683569023484651, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023484697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023484826, "dur":6344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023491186, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023491212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023491219, "dur":37299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023528554, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023528578, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023528589, "dur":10869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023539475, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023539748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023539756, "dur":45722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023585496, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023585532, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023585541, "dur":6293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023591864, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023591891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023591902, "dur":32534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023624453, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023624505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023624513, "dur":4539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683569023629074, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1683569023629094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683569023629103, "dur":53238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1683569023682363, "dur":12322, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023444494, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023444494, "dur":4519, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023449014, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1683569023449225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023459582, "dur":4739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1683569023464382, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023464481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023464487, "dur":28356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023492897, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023492922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023492930, "dur":35141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023528096, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023528125, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023528136, "dur":5369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023533529, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023533557, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023533566, "dur":5092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023538674, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023538691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023538699, "dur":45962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023584681, "dur":684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023585369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023585379, "dur":5147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023590545, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023590562, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023590608, "dur":31847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023622470, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023622496, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023622845, "dur":7094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683569023629957, "dur":2415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1683569023632377, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683569023632385, "dur":44148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1683569023676562, "dur":18186, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023444725, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023444725, "dur":4325, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023449050, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1683569023449219, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023463058, "dur":1421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1683569023464538, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1683569023464650, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023475193, "dur":13334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1683569023488651, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023488704, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023488827, "dur":36566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023525417, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023525443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023525457, "dur":9888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023535370, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023535389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023535398, "dur":50036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023585452, "dur":1019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023586475, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023586482, "dur":6678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023593179, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023593227, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023593234, "dur":29007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023622264, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023622302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023622311, "dur":52969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683569023675303, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1683569023675322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683569023675330, "dur":4047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1683569023679398, "dur":10151, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023444228, "dur":342, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023444570, "dur":4421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023449009, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1683569023449218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023455173, "dur":8926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1683569023464260, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023464386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023464557, "dur":15913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023480518, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023480546, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023483241, "dur":6100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023489359, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023489396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023489403, "dur":36351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023525775, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023525805, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023525815, "dur":4172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023530010, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023530028, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023530047, "dur":7379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023537442, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023537459, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023537466, "dur":4758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023542241, "dur":927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023543172, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023543186, "dur":42672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023585876, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023586108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023586116, "dur":8901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023595039, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023595058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683569023595069, "dur":83643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683569023678750, "dur":10798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023444054, "dur":436, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023444490, "dur":4504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023449009, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1683569023449285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023474168, "dur":10408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1683569023484654, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023484689, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023484822, "dur":39268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023524111, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023524131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023524143, "dur":5072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023529238, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023529264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023529272, "dur":9347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023538641, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023538691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023538700, "dur":73962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023612688, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023612709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023612720, "dur":62498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683569023675242, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1683569023675265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683569023675275, "dur":3713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1683569023679008, "dur":10529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023443828, "dur":573, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023444404, "dur":4586, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023449009, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1683569023449016, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023449096, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1683569023449102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023450086, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1683569023452694, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1683569023452824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023453306, "dur":11095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1683569023464470, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage.exe" }}
+,{ "pid":12345, "tid":7, "ts":1683569023464493, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023464499, "dur":20712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage.exe" }}
+,{ "pid":12345, "tid":7, "ts":1683569023485228, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023485249, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023485257, "dur":5630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023490907, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023490934, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023490942, "dur":35132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023526092, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023526130, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023526138, "dur":5244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023531403, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023531422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023531432, "dur":7166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023538614, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023538634, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023538643, "dur":46866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023585527, "dur":561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023586091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023586099, "dur":3968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023590085, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023590122, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023590133, "dur":31315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023621473, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023621494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023621505, "dur":9802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683569023631335, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1683569023631357, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683569023631400, "dur":49690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1683569023681110, "dur":8461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023444176, "dur":357, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023444533, "dur":4459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023449010, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1683569023449271, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023483253, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1683569023485642, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023485826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023485839, "dur":5228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023491085, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023491108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023491116, "dur":36539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023527677, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023527702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023527711, "dur":6740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023534471, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023534491, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023534498, "dur":5579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023540093, "dur":645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023540742, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023540751, "dur":41592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023582372, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023582625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023582639, "dur":9092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023591923, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023591953, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023591968, "dur":32925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023624915, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023624950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023626274, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683569023627419, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1683569023627447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023627459, "dur":46995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1683569023674511, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1683569023674543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683569023674582, "dur":9055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1683569023683654, "dur":5886, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023444348, "dur":260, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023444609, "dur":4387, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023449010, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1683569023449246, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023460274, "dur":4121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1683569023464459, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1683569023464567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023464576, "dur":22654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1683569023487326, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023487364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023487375, "dur":3518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023490909, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023490969, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023491133, "dur":37675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023528826, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023528849, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023528861, "dur":5070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023533951, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023534101, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023534109, "dur":4374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023538521, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023538542, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023538551, "dur":5488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023544054, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023544252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023544266, "dur":48331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023592615, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023592633, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023592640, "dur":31764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023624419, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023624437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023624445, "dur":51339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683569023675853, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1683569023676000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683569023676159, "dur":5407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1683569023681585, "dur":7978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023444563, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023444563, "dur":4457, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023449020, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1683569023449191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023463507, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1683569023464967, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023464995, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023483322, "dur":6300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023489642, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023489664, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023489672, "dur":37690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023527393, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023527419, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023527427, "dur":6542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023533993, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023534016, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023534024, "dur":4430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023538477, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023538497, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023538564, "dur":5259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023543870, "dur":756, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023544629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023544637, "dur":42143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023586812, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023587061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023587070, "dur":5357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023592444, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023592462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023592470, "dur":35687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683569023628179, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1683569023628396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683569023628418, "dur":55868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1683569023684312, "dur":10278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023444980, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023444981, "dur":4058, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023449044, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1683569023449260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023464933, "dur":19427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1683569023484442, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023484486, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023484757, "dur":4999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023489773, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023489790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023489799, "dur":37902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023527730, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023527748, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023527755, "dur":10521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023538294, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023538313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023538563, "dur":46907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023585487, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023585716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023585725, "dur":4818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023590559, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023590607, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023590614, "dur":30977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023621611, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023621633, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023621672, "dur":4874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683569023626563, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1683569023626582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023626604, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1683569023628161, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1683569023628181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023628189, "dur":47235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1683569023675456, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1683569023675479, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683569023675529, "dur":13934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1683569023689487, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1683569023689489, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023444860, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023444861, "dur":4157, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023449018, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1683569023449263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023465206, "dur":10758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1683569023476033, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023476057, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023483192, "dur":7453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023490685, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023490910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023490925, "dur":36393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023527336, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023527365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023527376, "dur":6048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023533443, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023533469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023533480, "dur":5156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023538659, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023538946, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023538980, "dur":5208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023544207, "dur":840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023545051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023545060, "dur":41660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023586739, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023587096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023587104, "dur":25623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023612749, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023612768, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683569023612776, "dur":70392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683569023683189, "dur":6370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023445120, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023445121, "dur":3896, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023449018, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1683569023449240, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023460000, "dur":4732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1683569023464797, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023464835, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023483269, "dur":5499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023488823, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023488856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023489017, "dur":36699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023525734, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023525758, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023525815, "dur":6123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023531967, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023531985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023532026, "dur":5660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023537701, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023537725, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023537732, "dur":46937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023584686, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023584906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023584918, "dur":5582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023590518, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023590553, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023590562, "dur":40858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683569023631439, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/resources.assets" }}
+,{ "pid":12345, "tid":13, "ts":1683569023631458, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683569023631470, "dur":45236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/resources.assets" }}
+,{ "pid":12345, "tid":13, "ts":1683569023676729, "dur":12809, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023445246, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023445247, "dur":3767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023449015, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1683569023449225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023459228, "dur":5268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1683569023464557, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023464591, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023474854, "dur":11468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023486340, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023486364, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023486375, "dur":4666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023491057, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023491077, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023491100, "dur":37799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023528918, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023529049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023529057, "dur":7807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023536884, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023536957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023536968, "dur":45951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023582938, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023583363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023583374, "dur":3362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023586754, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023587008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023587016, "dur":37183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023624219, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023624240, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023624252, "dur":4164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683569023628445, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1683569023628467, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023628474, "dur":46749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1683569023675253, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1683569023675271, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683569023675278, "dur":3974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/level1" }}
+,{ "pid":12345, "tid":14, "ts":1683569023679269, "dur":10295, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023445323, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023445323, "dur":3696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023449019, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1683569023449235, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023459756, "dur":5186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1683569023464998, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023465029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023483716, "dur":5336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023489072, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023489092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023489100, "dur":36640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023525762, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023525810, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023525824, "dur":4150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023529992, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023530015, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023530023, "dur":13794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023543835, "dur":485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023544323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023544331, "dur":46128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023590481, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023590499, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683569023590506, "dur":88088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683569023678611, "dur":10945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023445546, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023445546, "dur":3450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023449009, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1683569023449178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023451370, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1683569023452786, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1683569023452880, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023452887, "dur":10942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1683569023463912, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1683569023464223, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023464237, "dur":11367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1683569023475677, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023475709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023483187, "dur":4846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023488055, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023488091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023488103, "dur":37586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023525797, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023525835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023525847, "dur":6784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023532648, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023532667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023532677, "dur":5232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023537927, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023537945, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023537953, "dur":48859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023586829, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023587099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023587133, "dur":5574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023592722, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023592741, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023592749, "dur":32136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023624900, "dur":595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023625499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023625508, "dur":4116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683569023629646, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1683569023629879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683569023629889, "dur":49186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/MDT/2022/GDM222/GitHub Airport/Trillage_10MAY/Trillage_Game/Trillage_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":16, "ts":1683569023679102, "dur":10454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683569023700098, "dur":3707, "ph":"X", "name": "ProfilerWriteOutput" }
+,
